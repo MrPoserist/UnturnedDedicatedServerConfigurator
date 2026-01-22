@@ -7,7 +7,7 @@ To start configuring, you need to download the latest release here: https://gith
 
 ## How to use it?
 ### If you are using Unturned Dedicated Server for the first time:
-1. Download **Unturned Dedicated Server**.
+1. Download **Unturned Dedicated Server** or **compile from source file (ui.py)**.
 2. Run it one time, then close it.
 3. Open **UDSConfigurator**.
 4. Press "**Choose Folder**" and select folder where **Unturned Dedicated Server** is installed in.
@@ -15,3 +15,8 @@ To start configuring, you need to download the latest release here: https://gith
 6. Save.
 
 **If you already used Unturned Dedicated Server - just start from task 3.**
+
+## How to compile from source?
+1. Install **Python 3.14.2** from official site.
+2. Install **PyInstaller** through "pip install pyinstaller" command.
+3. Compile with "pyinstaller --onefile --noconsole ui.py" command.
