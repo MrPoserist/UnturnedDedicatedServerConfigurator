@@ -1,7 +1,7 @@
 This program is made to help with Unturned Dedicated Server configuring.
 It's very simple, so use manual configuring if you need more options.
 
-![screenshot1](https://github.com/MrPoserist/UnturnedDedicatedServerConfigurator/blob/2d2e60fcd3b79d3828927ae429dc49bfcc5be564/screenshot1.png)
+![screenshot1](https://github.com/MrPoserist/UnturnedDedicatedServerConfigurator/blob/d2daa0ee1dd169f36fa26a283890c203e1b7abbc/screenshot1.png)
 
 To start configuring, you need to download the latest release here: https://github.com/MrPoserist/UnturnedDedicatedServerConfigurator/releases/latest
 
